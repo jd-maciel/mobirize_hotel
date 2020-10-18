@@ -1,0 +1,1 @@
+# mobirize_hotel
